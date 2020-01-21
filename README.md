@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/wiwa5607/3308herokuprojectexample.svg?branch=master)
+![Build Status](https://travis-ci.com/wiwa5607/3308herokuprojectexample.svg?branch=master)
 # smartOBD
 
 Overview
